@@ -1,0 +1,11 @@
+{
+  "amazonUrl": "https://www.amazon.com",
+  "reporter": "mochawesome",
+  "chromeWebSecurity": false,
+  "reporterOptions": {
+    "reportDir": "cypress/results",
+    "overwrite": false,
+    "html": true,
+    "json": true
+  }
+}
